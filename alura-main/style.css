@@ -1,7 +1,42 @@
 header {
-    background-color: rgb(0, 255, 234);color: azure;
+    color: azure;
 }
  
-body { background-color: aqua;}
+body {
+    background-image: linear-gradient(#383d58, #00c0b0); color: aliceblue;
+    background-repeat: no-repeat;
+}
 
+.escola-imagem { 
+    width: 20%;
+}
 
+.escola-texto-um {
+    font-weight: 10px;
+}
+
+.alunos {
+    color: aliceblue;
+   
+    
+}
+
+.escola {
+    color: aliceblue;
+    
+}
+
+.logo-alura {
+    
+}
+.escola-conteudo{ 
+    width: 35%;
+}
+.escola-conteudo{
+    
+    justify-content: center;
+    align-items: center;
+}
+.escola-conteudo{
+    padding: 60px;
+}
